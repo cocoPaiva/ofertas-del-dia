@@ -1,0 +1,62 @@
+
+    body{
+      background-color:#f7ede2;
+      font-family: Arial;
+    }
+
+    h1 {
+        color: #84a59d;
+    }
+
+    table img {
+      /* border: 1px solid blue; */
+      width: 140px;
+    }
+
+    table h3{
+        color:#f28482;
+    }
+
+    .tabla_principal
+    {
+      width: 600px;
+      border-collapse: collapse;
+    }
+
+    .celda_titulo
+    {
+      height: 40px;
+      font-weight: bold;
+      color: #84a59d;
+    }
+
+    .logo img
+    {
+      border: 2px solid #f5cac3;
+    }
+
+    .col_1{
+      width: 350px;
+      text-align: center;
+    }
+
+    .col_2{
+      width: 80px;
+      text-align: center;
+    }
+
+    .col_3{
+      width: 100px;
+    }
+
+    table a {
+      color:red;
+      text-decoration: none;
+      border: 1px solid;
+      background-color: #ffb4a2;
+      display:block;
+      text-align: center;
+      height: 30px;
+      width: 90px;
+      justify-content: center;
+    }
