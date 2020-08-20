@@ -1,8 +1,14 @@
-
     body{
       background-color:#f7ede2;
       font-family: Arial;
     }
+
+     /* Estilos por defecto (no mobile)  */
+    .botonera
+    {
+      display: none;    
+    }
+
 
     h1 {
         color: #84a59d;

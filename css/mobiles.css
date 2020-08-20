@@ -1,0 +1,52 @@
+@media (max-width: 600px) {
+    body {
+    }
+
+    .contenedor
+    {
+        background-color: #fff;
+        width:100%;
+    }
+
+    .botonera
+    {
+        display: inline-table;
+        justify-content: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .botonera a
+    {
+        border-radius: 10px;
+    }
+
+
+    h1{
+        text-align: center;
+    }
+
+    .tabla_principal{
+        width: 100%;
+    }
+
+    .logo{
+        display: none;
+        width: 70%;
+        height: 50px;
+        margin:auto;
+        justify-content: center;
+    }
+
+    .logo img 
+    {
+        width: 400px;
+    }
+
+    .ocultar, .col_2 , .col_3  {
+        display: none;
+    }
+
+
+
+  }
