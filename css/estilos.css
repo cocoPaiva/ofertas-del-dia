@@ -3,13 +3,6 @@
       font-family: Arial;
     }
 
-     /* Estilos por defecto (no mobile)  */
-    .botonera
-    {
-      display: none;    
-    }
-
-
     h1 {
         color: #84a59d;
     }
@@ -41,6 +34,12 @@
       border: 2px solid #f5cac3;
     }
 
+    .logo
+    {
+      
+    }
+
+
     .col_1{
       width: 350px;
       text-align: center;
@@ -65,4 +64,8 @@
       height: 30px;
       width: 90px;
       justify-content: center;
+    }
+
+    .botones_mobile{
+      display: none;
     }

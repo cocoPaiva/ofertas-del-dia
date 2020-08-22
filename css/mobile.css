@@ -1,0 +1,53 @@
+ 
+@media (max-width:360px)
+{
+    body {
+      }
+
+    .logo
+    {
+        text-align: center;
+        margin: auto;
+    }
+
+    .logo img{
+        width: 100px;
+    }
+
+    h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .tabla_principal {
+        width: 100%;
+        border:0px;
+    }
+
+    footer{
+        text-align: center;
+        width: 100%;
+    }
+
+    /* Clases generales: */
+    .ocultar_mob{
+        display: none;
+    }
+
+    .botones_mobile
+    {
+     display: block;   
+    }
+    .boton_verde{
+        background-color: #88b988;
+        margin: auto;
+        border-radius: 15px;
+        align-items: center;
+        display: inline-flex;
+        border: 0px;
+        width: 90%;
+        margin-bottom: 20px;
+    }
+
+}
+
